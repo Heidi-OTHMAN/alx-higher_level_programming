@@ -2,7 +2,6 @@
 '''Module for Base class.'''
 
 
-
 class Base:
     '''A representation of the base of our OOP hierarchy.'''
 
